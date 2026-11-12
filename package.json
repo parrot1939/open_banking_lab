@@ -1,0 +1,1 @@
+{"name":"open-banking-ops-lab","private":true,"type":"module","scripts":{"test":"node --test"},"dependencies":{"pg":"8.16.3"}}
